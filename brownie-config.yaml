@@ -1,0 +1,5 @@
+networks:
+  default: gnache-local
+dotenv: .env
+account-keys:
+  private-key: ${STARTER_PRIVATE_KEY}
